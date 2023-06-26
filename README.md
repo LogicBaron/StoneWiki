@@ -1,6 +1,8 @@
 # [StoneWiki](https://github.com/suuperstone/StoneWiki/wiki)
 
+machine learning / mathematics / computer science 관련 정리
 
+----
 mark down 들여쓰기
 ```
 `&nbsp;` : 공백 1개를 추가한다
